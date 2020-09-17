@@ -1,0 +1,17 @@
+# .prettierrc.yaml configuration
+
+trailingComma: 'es5'
+# 缩进
+tabWidth: 2
+# 使用分号
+semi: true
+# 使用单引号
+singleQuote: true
+# 箭头函数括号
+arrowParens: 'avoid'
+# 换行的行长
+printWidth: 140
+# 括号空格
+bracketSpacing: true
+endOfLine: 'crlf'
+htmlWhitespaceSensitivity: 'ignore'

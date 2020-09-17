@@ -1,0 +1,21 @@
+// tsconfig.json
+{
+  "compilerOptions": {
+    "target": "es6",
+    "strict": true,
+    "module": "commonjs",
+    "removeComments": true,
+    "sourceMap": true,
+    "moduleResolution": "node"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
+}
